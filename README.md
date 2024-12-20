@@ -1,3 +1,4 @@
+# Using Convolutional Neural Networks Identifying Fake Indian Notes
 ## Project Overview
 
 This project leverages deep learning techniques to detect fake Indian currency notes. Using a Convolutional Neural Network (CNN), the system analyzes images of Indian currency and classifies them as authentic or counterfeit. The model is trained to learn patterns and features that differentiate real currency notes from fake ones, providing a reliable tool for identification.
