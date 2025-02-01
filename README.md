@@ -31,7 +31,7 @@ This project leverages deep learning techniques to detect fake Indian currency n
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/haripreethpichuka/Using-CNN-to-identify-Fake-Indian-Notes.git
    ```
 2. Navigate to the project directory:
    ```bash
